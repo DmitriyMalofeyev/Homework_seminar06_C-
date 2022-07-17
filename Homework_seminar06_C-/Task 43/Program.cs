@@ -14,13 +14,10 @@ double b2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите k2: ");
 double k2 = Convert.ToDouble(Console.ReadLine());
 
-double x = 0;
-double y = 0;
-
 if (k2 != k1)
 {
-    x = (b1 - b2) / (k2 - k1);
-    y = k1 * x + b1;
+    double x = (b1 - b2) / (k2 - k1);
+    double y = k1 * x + b1;
     Console.WriteLine("Координата х точки пересечения прямых: " + x);
     Console.WriteLine("Координата y точки пересечения прямых: " + y);
 }
