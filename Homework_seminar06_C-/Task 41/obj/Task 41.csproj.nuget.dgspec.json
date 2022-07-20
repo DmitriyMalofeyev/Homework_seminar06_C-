@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Codering\\Языки программирования\\C# семинары\\Homework\\Homework_seminar_C_sharp_6\\Homework_seminar06_C-\\Task 41\\Task 41.csproj": {}
+    "D:\\Codering\\Языки программирования\\C#\\C# семинары\\Homework\\Homework_seminar_C_sharp_6\\Homework_seminar06_C-\\Task 41\\Task 41.csproj": {}
   },
   "projects": {
-    "D:\\Codering\\Языки программирования\\C# семинары\\Homework\\Homework_seminar_C_sharp_6\\Homework_seminar06_C-\\Task 41\\Task 41.csproj": {
+    "D:\\Codering\\Языки программирования\\C#\\C# семинары\\Homework\\Homework_seminar_C_sharp_6\\Homework_seminar06_C-\\Task 41\\Task 41.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Codering\\Языки программирования\\C# семинары\\Homework\\Homework_seminar_C_sharp_6\\Homework_seminar06_C-\\Task 41\\Task 41.csproj",
+        "projectUniqueName": "D:\\Codering\\Языки программирования\\C#\\C# семинары\\Homework\\Homework_seminar_C_sharp_6\\Homework_seminar06_C-\\Task 41\\Task 41.csproj",
         "projectName": "Task 41",
-        "projectPath": "D:\\Codering\\Языки программирования\\C# семинары\\Homework\\Homework_seminar_C_sharp_6\\Homework_seminar06_C-\\Task 41\\Task 41.csproj",
+        "projectPath": "D:\\Codering\\Языки программирования\\C#\\C# семинары\\Homework\\Homework_seminar_C_sharp_6\\Homework_seminar06_C-\\Task 41\\Task 41.csproj",
         "packagesPath": "C:\\Users\\nickp\\.nuget\\packages\\",
-        "outputPath": "D:\\Codering\\Языки программирования\\C# семинары\\Homework\\Homework_seminar_C_sharp_6\\Homework_seminar06_C-\\Task 41\\obj\\",
+        "outputPath": "D:\\Codering\\Языки программирования\\C#\\C# семинары\\Homework\\Homework_seminar_C_sharp_6\\Homework_seminar06_C-\\Task 41\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nickp\\AppData\\Roaming\\NuGet\\NuGet.Config"
